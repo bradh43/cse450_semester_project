@@ -6356,7 +6356,7 @@ GameObject:
   m_Component:
   - component: {fileID: 355511389}
   - component: {fileID: 355511390}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6658,7 +6658,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 358971582}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8432,7 +8432,7 @@ GameObject:
   - component: {fileID: 469771544}
   - component: {fileID: 469771545}
   - component: {fileID: 469771546}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11590,7 +11590,7 @@ GameObject:
   - component: {fileID: 620541837}
   - component: {fileID: 620541839}
   - component: {fileID: 620541838}
-  m_Layer: 0
+  m_Layer: 18
   m_Name: Squirell
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13217,7 +13217,7 @@ GameObject:
   m_Component:
   - component: {fileID: 687636707}
   - component: {fileID: 687636708}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sky_background (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17308,7 +17308,7 @@ GameObject:
   m_Component:
   - component: {fileID: 903799135}
   - component: {fileID: 903799136}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17459,7 +17459,7 @@ GameObject:
   - component: {fileID: 908337048}
   - component: {fileID: 908337049}
   - component: {fileID: 908337050}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sky_background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19944,7 +19944,7 @@ GameObject:
   - component: {fileID: 1029633715}
   - component: {fileID: 1029633716}
   - component: {fileID: 1029633717}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20915,7 +20915,7 @@ GameObject:
   - component: {fileID: 1065316083}
   - component: {fileID: 1065316084}
   - component: {fileID: 1065316085}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22235,7 +22235,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1126412533}
   - component: {fileID: 1126412534}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23456,7 +23456,7 @@ GameObject:
   - component: {fileID: 1204657759}
   - component: {fileID: 1204657760}
   - component: {fileID: 1204657761}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28935,7 +28935,7 @@ GameObject:
   - component: {fileID: 1518138454}
   - component: {fileID: 1518138455}
   - component: {fileID: 1518138456}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30396,7 +30396,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1594046370}
   - component: {fileID: 1594046371}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30477,7 +30477,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1598727103}
   - component: {fileID: 1598727104}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31278,7 +31278,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1633193405}
   - component: {fileID: 1633193406}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain3 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31433,7 +31433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1633826232}
   - component: {fileID: 1633826233}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31943,7 +31943,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1653003228}
   - component: {fileID: 1653003229}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain4 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34298,7 +34298,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1796821874}
   - component: {fileID: 1796821875}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35268,7 +35268,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1873860244}
   - component: {fileID: 1873860245}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: sky_background (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37805,7 +37805,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2013792535}
   - component: {fileID: 2013792536}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: mountain1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40288,3 +40288,72 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e842b716959df4524891f4385b8d75ad, type: 3}
+--- !u!1001 &4346128301161749852
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 527
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634309, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4346128302157634313, guid: 79d7758773d5f40ba93a08acdff6bc34,
+        type: 3}
+      propertyPath: m_Name
+      value: SnowSpikes
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 79d7758773d5f40ba93a08acdff6bc34, type: 3}

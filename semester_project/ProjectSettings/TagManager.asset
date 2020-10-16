@@ -13,17 +13,17 @@ TagManager:
   - UI
   - 
   - 
+  - Background
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - EnemyProjectile
+  - PlayerProjectile
+  - Enemy
+  - Player
   - 
   - 
   - 

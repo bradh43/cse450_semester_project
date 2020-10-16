@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class GoatMovement : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -29,5 +29,6 @@ public class PlayerController : MonoBehaviour
         {
             transform.position += new Vector3(0.2f, 0, 0);
         }
+        
     }
 }

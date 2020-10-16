@@ -1,0 +1,1916 @@
+fileFormatVersion: 2
+guid: d989f47cc54b34d80abeeb3cc258dbef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1404114171222354326
+    second: goatright_0
+  - first:
+      213: -2832843695484305825
+    second: goatright_1
+  - first:
+      213: 8052680989282648565
+    second: goatright_2
+  - first:
+      213: -5527219531494791800
+    second: goatright_3
+  - first:
+      213: -6649917675558584551
+    second: goatright_4
+  - first:
+      213: -9162894817730113647
+    second: goatright_5
+  - first:
+      213: -1728739974125019883
+    second: goatright_6
+  - first:
+      213: -5937504823752281437
+    second: goatright_7
+  - first:
+      213: -7184479169113249372
+    second: goatright_8
+  - first:
+      213: 3912885643367602380
+    second: goatright_9
+  - first:
+      213: 5808120592999139729
+    second: goatright_10
+  - first:
+      213: -4022234620367361621
+    second: goatright_11
+  - first:
+      213: 6076542834508301818
+    second: goatright_12
+  - first:
+      213: 4199651089027183432
+    second: goatright_13
+  - first:
+      213: 7678499217283612576
+    second: goatright_14
+  - first:
+      213: -595673762597804973
+    second: goatright_15
+  - first:
+      213: -8540863388611383956
+    second: goatright_16
+  - first:
+      213: -4307713138109842422
+    second: goatright_17
+  - first:
+      213: 6820594836358854067
+    second: goatright_18
+  - first:
+      213: 256213595816993621
+    second: goatright_19
+  - first:
+      213: 7997318671743352890
+    second: goatright_20
+  - first:
+      213: 377017206650260671
+    second: goatright_21
+  - first:
+      213: 5557744713318326260
+    second: goatright_22
+  - first:
+      213: -2026677157615486800
+    second: goatright_23
+  - first:
+      213: 839592242106322153
+    second: goatright_24
+  - first:
+      213: 8441732097117081447
+    second: goatright_25
+  - first:
+      213: -3436684837560963480
+    second: goatright_26
+  - first:
+      213: 7594787264499574784
+    second: goatright_27
+  - first:
+      213: -3467327004653051834
+    second: goatright_28
+  - first:
+      213: 8668571840973320771
+    second: goatright_29
+  - first:
+      213: 4807651971677306881
+    second: goatright_30
+  - first:
+      213: 1513911573437708757
+    second: goatright_31
+  - first:
+      213: -900339806831987628
+    second: goatright_32
+  - first:
+      213: -8422479896807784860
+    second: goatright_33
+  - first:
+      213: 1844059994374246099
+    second: goatright_34
+  - first:
+      213: 7624012707512269141
+    second: goatright_35
+  - first:
+      213: -4101527434887032575
+    second: goatright_36
+  - first:
+      213: -1816262773679862199
+    second: goatright_37
+  - first:
+      213: -9159785162442887451
+    second: goatright_38
+  - first:
+      213: 3550892114643190218
+    second: goatright_39
+  - first:
+      213: 3078029916931651672
+    second: goatright_40
+  - first:
+      213: 5438923429968220662
+    second: goatright_41
+  - first:
+      213: -4302726980420533083
+    second: goatright_42
+  - first:
+      213: -3079524673731837414
+    second: goatright_43
+  - first:
+      213: -7557653645232415063
+    second: goatright_44
+  - first:
+      213: -2397678558140854442
+    second: goatright_45
+  - first:
+      213: 1841848516791004109
+    second: goatright_46
+  - first:
+      213: -317708559599746595
+    second: goatright_47
+  - first:
+      213: -2045657333848089844
+    second: goatright_48
+  - first:
+      213: -9069504514333871613
+    second: goatright_49
+  - first:
+      213: 8777391048267660124
+    second: goatright_50
+  - first:
+      213: 4360817013929120372
+    second: goatright_51
+  - first:
+      213: -4839273747531046077
+    second: goatright_52
+  - first:
+      213: 3208419620711268379
+    second: goatright_53
+  - first:
+      213: 2716385840129521341
+    second: goatright_54
+  - first:
+      213: 5749721505696781472
+    second: goatright_55
+  - first:
+      213: 3750127526617826115
+    second: goatright_56
+  - first:
+      213: -5304591107615781516
+    second: goatright_57
+  - first:
+      213: 7112720672830237757
+    second: goatright_58
+  - first:
+      213: 328300509423860592
+    second: goatright_59
+  - first:
+      213: 8816202711724992292
+    second: goatright_60
+  - first:
+      213: 3312441854272792088
+    second: goatright_61
+  - first:
+      213: 846299771246742560
+    second: goatright_62
+  - first:
+      213: 4555046985445046065
+    second: goatright_63
+  - first:
+      213: -7439910415531614842
+    second: goatright_64
+  - first:
+      213: -1484522172919273326
+    second: goatright_65
+  - first:
+      213: -8463599735214275867
+    second: goatright_66
+  - first:
+      213: -5087630593385598050
+    second: goatright_67
+  - first:
+      213: 7928657710875665986
+    second: goatright_68
+  - first:
+      213: -707626697805391554
+    second: goatright_69
+  - first:
+      213: -6338251077911475706
+    second: goatright_70
+  - first:
+      213: -5865960313266021135
+    second: goatright_71
+  - first:
+      213: 6397684903648836866
+    second: goatright_72
+  - first:
+      213: 2521832927891338424
+    second: goatright_73
+  - first:
+      213: 5848719441553524684
+    second: goatright_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goatright_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 606
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699eccf366a6c7310800000000000000
+      internalID: 1404114171222354326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 606
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ef3720ba7bfa8d0800000000000000
+      internalID: -2832843695484305825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 606
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1cbbfd1bed0cf60800000000000000
+      internalID: 8052680989282648565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 606
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885e6adde1f5b43b0800000000000000
+      internalID: -5527219531494791800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 606
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3dba5b1fb6b3a0800000000000000
+      internalID: -6649917675558584551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 606
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fcdead5bbd6d080800000000000000
+      internalID: -9162894817730113647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 606
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d924d17284208e0800000000000000
+      internalID: -1728739974125019883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_7
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 606
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b31032deb99da0800000000000000
+      internalID: -5937504823752281437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 477
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9afccb24a9b4c90800000000000000
+      internalID: -7184479169113249372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 477
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8d6a3e2cc5d4630800000000000000
+      internalID: 3912885643367602380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 477
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199485618e69a9050800000000000000
+      internalID: 5808120592999139729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 477
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a9b96ce62e28c0800000000000000
+      internalID: -4022234620367361621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_12
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 477
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af500595387345450800000000000000
+      internalID: 6076542834508301818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 477
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8433c0e2a68284a30800000000000000
+      internalID: 4199651089027183432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_14
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 477
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0affd4e0b528f8a60800000000000000
+      internalID: 7678499217283612576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_15
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 477
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35466527eddbbb7f0800000000000000
+      internalID: -595673762597804973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 350
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dedaedff1c87980800000000000000
+      internalID: -8540863388611383956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 378
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cfda069bde734c0800000000000000
+      internalID: -4307713138109842422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 383
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5780addde97ae50800000000000000
+      internalID: 6820594836358854067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 356
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5532c4d68e04e8300800000000000000
+      internalID: 256213595816993621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 350
+        width: 140
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a308cd8d5fe2cfe60800000000000000
+      internalID: 7997318671743352890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 350
+        width: 140
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc4994e62f6b3500800000000000000
+      internalID: 377017206650260671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_22
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 350
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffd4adde53112d40800000000000000
+      internalID: 5557744713318326260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_23
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 350
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b83ee9ecdbcfd3e0800000000000000
+      internalID: -2026677157615486800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 362
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eccbe222b4d6ab00800000000000000
+      internalID: 839592242106322153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_25
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 361
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f4da9bd9e072570800000000000000
+      internalID: 8441732097117081447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 351
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e253c39517e40d0800000000000000
+      internalID: -3436684837560963480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_27
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 351
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008682537ca166960800000000000000
+      internalID: 7594787264499574784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 252
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640298fb57491efc0800000000000000
+      internalID: -3467327004653051834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 289
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3423b2b4924fc4870800000000000000
+      internalID: 8668571840973320771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 252
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10048870ff538b240800000000000000
+      internalID: 4807651971677306881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 287
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d97b141e8e720510800000000000000
+      internalID: 1513911573437708757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 252
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b2a447b95183f0800000000000000
+      internalID: -900339806831987628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_33
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 266
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e37e678275d1b80800000000000000
+      internalID: -8422479896807784860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_34
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 273
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de8f2d6bca679910800000000000000
+      internalID: 1844059994374246099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 262
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559355ae92fedc960800000000000000
+      internalID: 7624012707512269141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_36
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 260
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1011a0f57827417c0800000000000000
+      internalID: -4101527434887032575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 251
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ecb0c51a65bc6e0800000000000000
+      internalID: -1816262773679862199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 250
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eea2b5ece7e1e080800000000000000
+      internalID: -9159785162442887451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 256
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac10b09909d474130800000000000000
+      internalID: 3550892114643190218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 253
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8587cbeb6eb57ba20800000000000000
+      internalID: 3078029916931651672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_41
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 253
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11ecbfa00fa7b40800000000000000
+      internalID: 5438923429968220662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_42
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 259
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a48b8eab94a944c0800000000000000
+      internalID: -4302726980420533083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_43
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 250
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12c92110a45345d0800000000000000
+      internalID: -3079524673731837414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae5c744d02dd1790800000000000000
+      internalID: -7557653645232415063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 183
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f81780e0cb9bed0800000000000000
+      internalID: -2397678558140854442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 157
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb686da77f8f8910800000000000000
+      internalID: 1841848516791004109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c4f29fb5479bf0800000000000000
+      internalID: -317708559599746595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 160
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bdfc34e7d5c93e0800000000000000
+      internalID: -2045657333848089844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 169
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f35e42b5a22280800000000000000
+      internalID: -9069504514333871613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 164
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bffae57ae8fc970800000000000000
+      internalID: 8777391048267660124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_51
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47299b538fbb48c30800000000000000
+      internalID: 4360817013929120372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 159
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343e98b8a2277dcb0800000000000000
+      internalID: -4839273747531046077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 181
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1083e665a8968c20800000000000000
+      internalID: 3208419620711268379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 173
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db632d1978a82b520800000000000000
+      internalID: 2716385840129521341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 159
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a41b700f3d1bcf40800000000000000
+      internalID: 5749721505696781472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 172
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343487ecd112b0430800000000000000
+      internalID: 3750127526617826115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 201
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8dd71e7e4266b0800000000000000
+      internalID: -5304591107615781516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_58
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 168
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3caf9264c575b260800000000000000
+      internalID: 7112720672830237757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 159
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf9cbe29b5e8400800000000000000
+      internalID: 328300509423860592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 179
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4272434f7a1795a70800000000000000
+      internalID: 8816202711724992292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_61
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 167
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816e01ff05828fd20800000000000000
+      internalID: 3312441854272792088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 197
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c08a67829aebb00800000000000000
+      internalID: 846299771246742560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 170
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1377aae7917c63f30800000000000000
+      internalID: 4555046985445046065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_64
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 192
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d528935e020c890800000000000000
+      internalID: -7439910415531614842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_65
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 169
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a4f5f2fae56be0800000000000000
+      internalID: -1484522172919273326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_66
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 196
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2867502e04b8a80800000000000000
+      internalID: -8463599735214275867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_67
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 157
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9377d44eea1569b0800000000000000
+      internalID: -5087630593385598050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_68
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 157
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246e7622e20480e60800000000000000
+      internalID: 7928657710875665986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_69
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 155
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e391abb74410e26f0800000000000000
+      internalID: -707626697805391554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_70
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 159
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a89d3e9320a08a0800000000000000
+      internalID: -6338251077911475706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 9
+        width: 95
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc5d3d9c2ce79ea0800000000000000
+      internalID: -5865960313266021135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_72
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 11
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d3ed2068429c850800000000000000
+      internalID: 6397684903648836866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_73
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4b8d9cfa95ff220800000000000000
+      internalID: 2521832927891338424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goatright_74
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 11
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc708b02853da2150800000000000000
+      internalID: 5848719441553524684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

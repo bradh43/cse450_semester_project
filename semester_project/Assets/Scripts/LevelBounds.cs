@@ -8,7 +8,7 @@ public class LevelBounds : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other) {
         // Reload scene only when colliding with player
         // TODO change to GoatController
-        if(other.gameObject.GetComponent<GoatMovement>()){
+        if(other.gameObject.GetComponent<PlayerController>()){
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8093248734010660223}
   - component: {fileID: 530076331662556600}
   - component: {fileID: 812709222355189889}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: SnowGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
